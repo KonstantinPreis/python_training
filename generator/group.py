@@ -21,7 +21,7 @@ for o, a in opts:
         n = int(a)
     elif o == "-f":
         f = a
-        
+
 
 def random_string(prefix, maxlen):
     symbols = string.ascii_letters + string.digits + string.punctuation + " "*10
