@@ -1,10 +1,11 @@
 {
-  web: {
+  "web": {
     "baseUrl": "http://localhost/addressbook/",
     "username": "admin",
     "password": "secret"
   },
-  db:{
+
+  "db":{
     "host": "localhost",
     "name": "addressbook",
     "user": "root",
